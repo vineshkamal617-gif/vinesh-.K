@@ -1,0 +1,11 @@
+# In-Memory Computing for Artificial Intelligence
+
+This case study explains In-Memory Computing (IMC), a computing technology that performs computations directly within memory to reduce data movement between the processor and memory.
+
+It covers the architecture of in-memory computing, different memory technologies, the comparison between conventional computing and in-memory computing, and its execution model.
+
+The case study also discusses AI applications such as deep neural networks, transformers, edge AI, and neuromorphic computing, along with the advantages, limitations, and future potential of this technology.
+
+**Domain:** Artificial Intelligence and Computer Organisation
+**Institution:** Prathyusha Engineering College
+**Document Type:** Academic Case Study
